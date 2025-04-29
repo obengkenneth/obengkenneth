@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## 🚀 About me
-I am Kenneth Obeng, an experienced software developer with expertise in performant and scalable solution.
+I am Kenneth Obeng, an experienced software developer with expertise in performant and scalable solutions.
 
 👨‍💻 I enjoy learning new technology. I recently learnt tailwind css and next. Next up is react native and progressive web apps.
 
