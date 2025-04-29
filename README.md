@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## 🚀 About me
-I am Kenneth Obeng, a software developer currently specializing in frontend development whiles buildiing up my skills in backend development.
+I am Kenneth Obeng, an experienced software developer with expertise in performant and scalable solution.
 
 👨‍💻 I enjoy learning new technology. I recently learnt tailwind css and next. Next up is react native and progressive web apps.
 
